@@ -1,0 +1,27 @@
+{
+  "train_rows": 279,
+  "val_rows": 60,
+  "test_rows": 60,
+  "split_strategy": "kronologis 70%/15%/15%",
+  "lag_horizon": 1,
+  "anfis_features": [
+    "PM10",
+    "PM25"
+  ],
+  "anfis_n_mf": 2,
+  "anfis_n_rules": 4,
+  "pso_n_particles": 10,
+  "pso_max_iter": 15,
+  "pso_best_val_rmse": 4.275987,
+  "random_forest": {
+    "MAE": 3.8421181819877663,
+    "RMSE": 4.6994097322067105,
+    "R2": 0.6968170584119169
+  },
+  "anfis_pso": {
+    "MAE": 3.5941923292776865,
+    "RMSE": 4.334814326773268,
+    "R2": 0.7420359785892922
+  },
+  "data_note": "DATA SINTETIS — bukan pengukuran ISPU resmi Provinsi Bengkulu. Metrik ini hanya membuktikan pipeline berjalan, bukan akurasi ilmiah."
+}
