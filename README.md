@@ -1,12 +1,4 @@
-# 04 — Machine Learning: Prediksi ISPU (Materi Inti Skripsi)
-
-## Judul Skripsi
-
-> **PEMODELAN PREDIKTIF KUALITAS UDARA MENGGUNAKAN RANDOM FOREST DAN ADAPTIVE
-> NEURO-FUZZY INFERENCE SYSTEM DENGAN OPTIMASI PARTICLE SWARM OPTIMIZATION**
-> *(Studi Kasus: Provinsi Bengkulu)*
-
----
+# 04 — Machine Learning: Prediksi ISPU
 
 ## Tujuan implementasi
 
